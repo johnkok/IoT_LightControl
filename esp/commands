@@ -1,0 +1,2 @@
+PATH=/opt/Espressif/source-code-examples/basic_example/builds/xtensa-lx106-elf/bin:$PATH
+make ESPPORT=/dev/ttyUSB0 flash
